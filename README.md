@@ -1,3 +1,3 @@
-# GitHub-IBM
+# GitHub- Coursera
 In association with IBM Data Science Capstone
-EXAMPLE TEXT
+
